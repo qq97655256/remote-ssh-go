@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.qq97655256.remotesshgo
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
